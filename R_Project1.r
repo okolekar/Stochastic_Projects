@@ -1,5 +1,5 @@
 ##### Stochastic Methods for Material Science Programming Project 1 #####
-### by Omkar Kolekar (66808) in collaboration with Ajinkya Nalawade ###
+### by Omkar Kolekar 
 
 ###############################################################################################################################################################
 ## Task 1 ##
